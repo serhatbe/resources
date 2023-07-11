@@ -1,0 +1,12 @@
+---
+title: "Resources"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: cloud #numbered unnumbered cloud
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
+---

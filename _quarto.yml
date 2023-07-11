@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+execute:
+  freeze: true
+
+website:
+  title: "Resources"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - about.qmd
+      #- text: "Practice"
+        #href: blog.qmd
+      #- about.qmd
+      # - section: "Etc."
+      #   contents:
+      #     - playlist.qmd
+      #     - equipment.qmd
+
+  back-to-top-navigation: true
+  page-footer: 
+    left: "2001-2023, Learning for Life::Teaching for Life"
+    right: "Built with [Quarto](https://quarto.org/)."
+    background: light
+
+format:
+  html:
+    toc: true
+    theme: cosmo #default journal cosmo litera 
+    css: styles.css
+date-format: full
+editor: visual
