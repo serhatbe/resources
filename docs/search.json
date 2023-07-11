@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Resources",
     "section": "",
-    "text": "Formulae Sheet\n\n\n\n\n\n\n\n2023\n\n\nFormulae\n\n\n\n\n\n\n\n\n\n\n\nTuesday, July 11, 2023\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "text": "Math Typesetting\n\n\n\n\n\n\n\n2023\n\n\nThermodynamics\n\n\nFormulae\n\n\n\n\n\n\n\n\n\n\n\nTuesday, July 11, 2023\n\n\n\n\n\n\n  \n\n\n\n\nFormulae Sheet\n\n\n\n\n\n\n\n2023\n\n\nFormulae\n\n\n\n\n\n\n\n\n\n\n\nTuesday, July 11, 2023\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
     "objectID": "posts/2023-07-11/index.html",
@@ -26,5 +26,19 @@
     "title": "Formulae Sheet",
     "section": "",
     "text": "\\[\nE=mc^2\n\\]"
+  },
+  {
+    "objectID": "posts/2023-07-11-1/index.html",
+    "href": "posts/2023-07-11-1/index.html",
+    "title": "Math Typesetting",
+    "section": "",
+    "text": "\\(f(x) = \\int_{-\\infty}^\\infty \\hat f(\\xi)\\,e^{2 \\pi i \\xi x} \\,d\\xi\\)\n\\(x = {-b \\pm \\sqrt{b^2-4ac} \\over 2a}\\)"
+  },
+  {
+    "objectID": "posts/2023-07-11-1/index.html#typesetting-examples",
+    "href": "posts/2023-07-11-1/index.html#typesetting-examples",
+    "title": "Math Typesetting",
+    "section": "",
+    "text": "\\(f(x) = \\int_{-\\infty}^\\infty \\hat f(\\xi)\\,e^{2 \\pi i \\xi x} \\,d\\xi\\)\n\\(x = {-b \\pm \\sqrt{b^2-4ac} \\over 2a}\\)"
   }
 ]

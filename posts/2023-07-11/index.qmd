@@ -5,6 +5,13 @@ date: "2023-07-11T11:37:23"
 draft: false
 format: 
   html: default
+  pdf:
+    title: Formulae
+    toc: true
+    toc-title: Contents
+    toc-depth: 2
+    number-sections: false
+    colorlinks: true
 categories:
   - 2023
   - Formulae

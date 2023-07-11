@@ -1,6 +1,6 @@
 ---
-title: "title_here"
-date: "2023-07-10T20:37:23"
+title: "Math Typesetting"
+date: "2023-07-11T15:11:23"
 #date-modified: "2023-07-10T20:37:23"
 draft: false
 
@@ -10,7 +10,7 @@ format:
     code-fold: true
     code-copy: true
   pdf:
-    title: title_here
+    title: Math Typesetting
     toc: true
     toc-title: Contents
     toc-depth: 2
@@ -23,8 +23,10 @@ categories:
   - Formulae
 ---
 
-## Title
+## Typesetting Examples
 
-Content starts here.
+![](../img/thumbnail.jpg)
 
-![](../img/image.jpg)
+$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$
+
+$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
